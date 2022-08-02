@@ -1,5 +1,5 @@
 # proyectopotrerodigital.github.io
-proyecto final potrero digital
+
 Este es mi proyecto final del potrero digital (FRONT END)
 es un e-commerce de una casa de pesca ficticia (el nombre, logo y barra separadora lo cree para el proyecto,
  el resto de imagenes fueron sacadas de internet, como productos y las fotos del local de pesca). 
